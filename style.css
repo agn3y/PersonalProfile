@@ -76,6 +76,11 @@ body{
         /* margin-block: auto; */
         margin-top: 0.5rem;
     }
+
+    .common-class:visited{
+       background-color: rgb(75, 75, 75);
+       transition: 0.3s ease-in-out;
+    }
 }
 
 @media (max-width:1024px) {
